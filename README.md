@@ -126,21 +126,3 @@ class HafijurRhaman:
 * Worked across AWS, Docker, Jenkins, Linux, GitHub, and CI/CD environments.
 * Collaborated with cross-functional teams and mentored junior developers through code reviews and engineering standards.
 
-<br/>
-
-## Professional Experience
-
-| Company               | Role              | Dates               |
-| --------------------- | ----------------- | ------------------- |
-| CitiGroup             | Software Engineer | Oct 2022 - Present  |
-| Infosys               | Python Developer  | Aug 2019 - Sep 2022 |
-| Cisco                 | Python Developer  | Apr 2018 - Jul 2019 |
-| Verizon Data Services | Python Developer  | Feb 2017 - Mar 2018 |
-| United Airlines       | Python Developer  | Jun 2016 - Jan 2017 |
-
-<br/>
-
-## Education
-
-**B.S.S. Engineering**
-University of Dhaka — Dhaka, Bangladesh
